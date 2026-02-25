@@ -1,38 +1,18 @@
-.App {
-  text-align: center;
+body{
+  background-image: url('https://static.vecteezy.com/system/resources/thumbnails/027/528/111/small_2x/hr-concept-and-customer-care-concept-corporate-clients-service-and-care-hr-team-managing-employee-recruitment-and-personnel-within-business-human-resource-and-personnel-management-generative-ai-photo.jpg'); /* path to your image */
+  background-size: cover;   /* make it cover full area */
+  background-repeat: no-repeat; /* prevent repeating */
+  background-position: center;  /* center the image */
+  height: 100vh;  
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Para{
+  margin:250px;
+  padding:20px 30px;
+  
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+p{
+  text-align:center;
+  color:#ea0404;
+  font-size: 30px;
+  font-weight: 400;
 }
