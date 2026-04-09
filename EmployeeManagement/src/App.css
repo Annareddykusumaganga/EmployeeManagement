@@ -1,0 +1,18 @@
+body{
+  background-image: url('https://static.vecteezy.com/system/resources/thumbnails/027/528/111/small_2x/hr-concept-and-customer-care-concept-corporate-clients-service-and-care-hr-team-managing-employee-recruitment-and-personnel-within-business-human-resource-and-personnel-management-generative-ai-photo.jpg'); /* path to your image */
+  background-size: cover;   /* make it cover full area */
+  background-repeat: no-repeat; /* prevent repeating */
+  background-position: center;  /* center the image */
+  height: 100vh;  
+}
+.Para{
+  margin:250px;
+  padding:20px 30px;
+  
+}
+p{
+  text-align:center;
+  color:#ea0404;
+  font-size: 30px;
+  font-weight: 400;
+}
